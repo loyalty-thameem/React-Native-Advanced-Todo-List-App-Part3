@@ -102,6 +102,6 @@ const styles = StyleSheet.create({
   subtitle: {
     fontSize: 12,
     fontWeight: '700',
-    color: colors.white,
+    color: colors.white
   },
 });
